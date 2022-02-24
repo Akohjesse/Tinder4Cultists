@@ -1,6 +1,11 @@
 <template>
    <footer>
        <div class="child_wrap flex">
+           <div class="join_us">
+               <div class="btn">
+                   <button>Join Tinder4Cultists</button>
+               </div>
+           </div>
           <ul class="flex_col flex">
               <h3>COMPANY</h3>
               <li>About</li>
@@ -19,6 +24,15 @@
               <li>Terms</li>
               <li>Safety tips</li>
           </ul>
+          <ul class="flex_col flex">
+              <h3>Follow</h3>
+              <li>Facebook</li>
+              <li>Twitter</li>
+              <li>Instagram</li>
+          </ul>
+          <div class="logo">
+              <img src="@/assets/logo.svg" alt="">
+          </div>
        </div>
    </footer>
 </template>
@@ -31,9 +45,9 @@ export default {
 
 <style style="scss" lang="scss" scoped> 
  footer{
-     padding: 30px 0px;
+     padding: 40px 0px;
      background: #045660;
-     color: white;
+     color: rgb(218, 218, 218);
      .child_wrap{
         justify-content: space-between;
         ul{ 
@@ -41,6 +55,9 @@ export default {
             li{
                 list-style: none;
             }
+        }
+        .logo{
+            width: 10%;
         }
      }
  }
