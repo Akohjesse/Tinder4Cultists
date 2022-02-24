@@ -6,9 +6,9 @@
         <nav>
             <ul class="flex">
                 <li>Testimonials</li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Aro</li>
+                <li>Bucanner</li>
+                <li>BlackAxe</li>
                 <li>Login</li>
             </ul>
         </nav>

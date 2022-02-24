@@ -1,4 +1,7 @@
 header {
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0px;
   .logo {
     width: 5%;
     img {
@@ -6,17 +9,18 @@ header {
     }
   }
   nav {
-    width: 30%;
+    width: 50%;
     ul {
       justify-content: space-evenly;
       li {
         list-style: none;
+        font-size: 1.1em;
       }
     }
   }
-  .img {
-    img {
-      width: 130px;
+  .login {
+    button {
+      background: rgb(255, 230, 0);
     }
   }
   a {

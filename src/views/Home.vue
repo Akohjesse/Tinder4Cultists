@@ -1,6 +1,14 @@
 <template>
   <div class="home">
      <Header/>
+     <main class="child_wrap">
+       <div class="txt_copy">
+         <h1>Date a Cultist Near You today</h1>
+       </div>
+       <div class="hero_img img">
+         <!-- <img src="@/assets/pansexual@2x.jpeg" alt=""> -->
+       </div>
+     </main>
   </div>
 </template>
 
@@ -14,6 +22,5 @@ export default {
 </script>
 
 
-<style lang="scss">
-@import '../scss/_generic.scss';
+<style lang="scss" src="../scss/home.scss">
 </style>
