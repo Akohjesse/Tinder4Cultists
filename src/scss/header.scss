@@ -1,0 +1,26 @@
+header {
+  .logo {
+    width: 5%;
+    img {
+      width: 100%;
+    }
+  }
+  nav {
+    width: 30%;
+    ul {
+      justify-content: space-evenly;
+      li {
+        list-style: none;
+      }
+    }
+  }
+  .img {
+    img {
+      width: 130px;
+    }
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}

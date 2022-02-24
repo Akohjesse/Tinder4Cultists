@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  font-family: "DM sans";
+  overflow-x: hidden;
+}
+.child_wrap {
+  width: 90%;
+  margin: 0 auto;
+}
+.flex {
+  display: flex;
+}
+.flex_r {
+  justify-content: space-between;
+  align-items: center;
+}
+.flex_col {
+  flex-direction: column;
+}
+.grid {
+  display: grid;
+}
