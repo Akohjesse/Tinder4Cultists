@@ -1,7 +1,12 @@
 <template>
    <footer>
        <div class="child_wrap">
-
+          <ul>
+              <h3>COMPANY</h3>
+              <li>About</li>
+              <li>Careers</li>
+              <li>Blog</li>
+          </ul>
        </div>
    </footer>
 </template>
@@ -16,5 +21,6 @@ export default {
  footer{
      padding: 30px 0px;
      background: #045660;
+     color: white;
  }
 </style>
