@@ -2,9 +2,9 @@ main {
   padding: 4em 0px;
   justify-content: space-between;
   align-items: center;
-  background-image: url("../assets/axe.png");
+  background-image: url("../assets/axe.png"), url("../assets/machete.png");
   background-repeat: no-repeat;
-  background-position: bottom right;
+  background-position: bottom right, bottom right;
   background-size: 40%;
   .txt_copy {
     width: 60%;
