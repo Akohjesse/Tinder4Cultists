@@ -48,6 +48,7 @@ export default {
 <style style="scss" lang="scss" scoped> 
  footer{
      padding: 40px 0px;
+     margin-top: 3em;
      background: #033138;
      color: rgb(218, 218, 218);
      .child_wrap{
