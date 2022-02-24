@@ -3,8 +3,10 @@
        <div class="child_wrap flex">
            <div class="join_us">
                <div class="btn">
-                   <button>Join Tinder4Cultists</button>
+                   <button>Join AroLove</button>
                </div>
+               <br>
+               <p>@ AroLove 2022</p>
            </div>
           <ul class="flex_col flex">
               <h3>COMPANY</h3>

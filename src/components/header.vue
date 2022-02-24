@@ -31,7 +31,7 @@ header {
   align-items: center;
   padding: 20px 0px;
   .logo {
-    width: 5%;
+    width: 6%;
     img {
       width: 100%;
     }
