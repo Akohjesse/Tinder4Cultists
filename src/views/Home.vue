@@ -1,12 +1,17 @@
 <template>
   <div class="home">
      <Header/>
-     <main class="child_wrap">
+     <main class="child_wrap flex">
        <div class="txt_copy">
-         <h1>Date a Cultist Near You today</h1>
+         <h1>Who Dey Breathe??</h1>
+         <p>Date a Cultist Near You today</p>
+         <p>By clicking Join, you agree to our Terms. Learn how we process your data in our Privacy Policy and Cookies Policy.</p>
+         <div class="btn">
+           <button>Join Our Waitlist</button>
+         </div>
        </div>
        <div class="hero_img img">
-         <!-- <img src="@/assets/pansexual@2x.jpeg" alt=""> -->
+         <img src="@/assets/axe.png" alt="">
        </div>
      </main>
   </div>

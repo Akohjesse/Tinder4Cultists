@@ -8,6 +8,7 @@
 body {
   font-family: "DM sans";
   overflow-x: hidden;
+  background-color: rgb(44, 44, 36);
 }
 .child_wrap {
   width: 80%;
@@ -37,8 +38,8 @@ body {
     font-family: inherit;
   }
 }
-h1 {
-  font-size: 5em;
-  font-weight: bolder;
-  font-family: "proxima";
+.img {
+  img {
+    width: 100%;
+  }
 }

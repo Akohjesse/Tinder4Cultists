@@ -1,5 +1,18 @@
 main {
   padding: 4em 0px;
+  justify-content: space-between;
+  align-items: center;
   .txt_copy {
+    width: 60%;
+    h1 {
+      font-size: 5em;
+      font-weight: bolder;
+      font-family: "proxima";
+      line-height: 6rem;
+      color: white;
+    }
+  }
+  .hero_img {
+    width: 40%;
   }
 }
