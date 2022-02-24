@@ -25,6 +25,36 @@ export default {
 }
 </script>
 
-<style scoped lang="scss" src="../scss/header.scss">
+<style scoped lang="scss">
+header {
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0px;
+  .logo {
+    width: 5%;
+    img {
+      width: 100%;
+    }
+  }
+  nav {
+    width: 50%;
+    ul {
+      justify-content: space-evenly;
+      li {
+        list-style: none;
+        font-size: 1.1em;
+      }
+    }
+  }
+  .login {
+    button {
+      background: rgb(255, 230, 0);
+    }
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
 
 </style>
