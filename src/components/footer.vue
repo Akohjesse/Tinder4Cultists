@@ -48,7 +48,7 @@ export default {
 <style style="scss" lang="scss" scoped> 
  footer{
      padding: 40px 0px;
-     background: #045660;
+     background: #033138;
      color: rgb(218, 218, 218);
      .child_wrap{
         justify-content: space-between;

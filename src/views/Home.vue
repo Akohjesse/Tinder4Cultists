@@ -3,7 +3,7 @@
      <Header/>
      <main class="child_wrap flex">
        <div class="txt_copy flex flex_col">
-         <h1>Date a Cultist Near You today</h1>
+         <h1>Date a Cultist Near You today 💚💛🖤</h1>
          <p>By clicking Join, you agree to our Terms. Learn how we process your data in our Privacy Policy and Cookies Policy.</p>
          <div class="btn">
            <button>Join Our Waitlist</button>

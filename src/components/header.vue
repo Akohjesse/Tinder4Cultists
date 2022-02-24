@@ -49,6 +49,7 @@ header {
   .login {
     button {
       background: rgb(255, 230, 0);
+      border: 1px solid black;
     }
   }
   a {
