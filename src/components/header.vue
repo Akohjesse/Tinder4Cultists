@@ -43,6 +43,7 @@ header {
       li {
         list-style: none;
         font-size: 1.1em;
+         cursor: pointer;
       }
     }
   }
