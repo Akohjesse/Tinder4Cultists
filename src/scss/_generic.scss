@@ -8,7 +8,6 @@
 body {
   font-family: "DM sans";
   overflow-x: hidden;
-  background-color: rgb(44, 44, 36);
 }
 .child_wrap {
   width: 80%;
@@ -42,4 +41,7 @@ body {
   img {
     width: 100%;
   }
+}
+p {
+  line-height: 1.7rem;
 }

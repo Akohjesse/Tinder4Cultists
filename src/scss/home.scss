@@ -1,15 +1,29 @@
 main {
-  padding: 4em 0px;
+  padding: 3em 0px;
   justify-content: space-between;
   align-items: center;
+  background-image: url("../assets/axe.jpeg");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 40%;
   .txt_copy {
     width: 60%;
+    gap: 2rem 0px;
     h1 {
       font-size: 5em;
       font-weight: bolder;
       font-family: "proxima";
-      line-height: 6rem;
-      color: white;
+      line-height: 5.8rem;
+    }
+    p {
+      width: 70%;
+    }
+    .btn {
+      button {
+        font-size: 1.3em;
+        background: rgb(255, 230, 0);
+        padding: 1.5rem 2em;
+      }
     }
   }
   .hero_img {
